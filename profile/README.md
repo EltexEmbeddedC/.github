@@ -6,24 +6,24 @@
 ## Список домашних заданий
 
 ### Часть 1. Язык Си
-1. **Задание 1.** [task-1](https://github.com/your-organization/task-1)
-2. **Задание 2.** [task-2](https://github.com/your-organization/task-2)
-3. **Задание 3.** [task-2](https://github.com/your-organization/task-2)
-4. **Задание 4.** [task-2](https://github.com/your-organization/task-2)
-5. **Задание 5.** [task-2](https://github.com/your-organization/task-2)
+1. **Задание 1.** [Битовые операции](https://github.com/EltexEmbeddedC/bitwise-operations)
+2. **Задание 2.** [Массивы](https://github.com/EltexEmbeddedC/arrays)
+3. **Задание 3.** [Указатели](https://github.com/EltexEmbeddedC/pointers)
+4. **Задание 4.** [Структуры](https://github.com/EltexEmbeddedC/structures)
+5. **Задание 5.** [Функции](https://github.com/EltexEmbeddedC/functions)
 
 ### Часть 2. Системное программирование в Linux
-6. **Задание 6.** [task-2](https://github.com/your-organization/task-2)
-7. **Задание 7.** [task-2](https://github.com/your-organization/task-2)
-8. **Задание 8.** [task-2](https://github.com/your-organization/task-2)
-9. **Задание 9.** [task-2](https://github.com/your-organization/task-2)
-10. **Задание 10.** [task-2](https://github.com/your-organization/task-2)
-11. **Задание 11.** [task-2](https://github.com/your-organization/task-2)
-12. **Задание 12.** [task-2](https://github.com/your-organization/task-2)
-13. **Задание 13.** [task-2](https://github.com/your-organization/task-2)
-14. **Задание 14.** [task-2](https://github.com/your-organization/task-2)
-15. **Задание 15.** [task-2](https://github.com/your-organization/task-2)
-16. **Задание 16.** [task-2](https://github.com/your-organization/task-2)
+6. **Задание 6.** [Динамическая память](https://github.com/EltexEmbeddedC/dynamic-memory)
+7. **Задание 7.** [Статические библиотеки](https://github.com/EltexEmbeddedC/static-libraries)
+8. **Задание 8.** [Динамические библиотеки](https://github.com/EltexEmbeddedC/dynamic-libraries)
+9. **Задание 9.** [Виртуальная файловая система](https://github.com/EltexEmbeddedC/virtual-file-system)
+10. **Задание 10.** [Управление процессами](https://github.com/EltexEmbeddedC/process-management)
+11. **Задание 11.** [Потоки](https://github.com/EltexEmbeddedC/threads)
+12. **Задание 12.** [Каналы](https://github.com/EltexEmbeddedC/pipes)
+13. **Задание 13.** [Очереди сообщений](https://github.com/EltexEmbeddedC/message-queues)
+14. **Задание 14.** [Разделяемая память и семафоры](https://github.com/EltexEmbeddedC/shared-memory-and-semaphores)
+15. **Задание 15.** [Сигналы](https://github.com/EltexEmbeddedC/signals)
+16. **Задание 16.** [Сокеты](https://github.com/EltexEmbeddedC/sockets)
 
 ## Как использовать
 1. **Клонирование репозитория:**
