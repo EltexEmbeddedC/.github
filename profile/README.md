@@ -29,7 +29,7 @@
 17. **Задание 17.** [Ядро Linux](https://github.com/EltexEmbeddedC/kernel-building)
 18. **Задание 18.** [Корневая файловая система](https://github.com/EltexEmbeddedC/root-filesystem)
 19. **Задание 19.** [Кросс-компиляция](https://github.com/EltexEmbeddedC/cross-compilation)
-20. **Задание 20.** Модули ядра Linux
+20. **Задание 20.** [Модули ядра Linux](https://github.com/EltexEmbeddedC/linux-kernel-modules)
 
 ## Как использовать
 1. **Клонирование репозитория:**
